@@ -1,0 +1,12 @@
+{
+   "name": "ssol-udc",
+   "version": "1.0.0",
+   "description": "Electron app for SSOL interview using jQuery and Bootstrap.",
+   "main": "app.js",
+   "scripts": {
+      "start": "electron app.js"
+   },
+   "devDependencies": {
+      "electron": "^1.4.12"
+   }
+}
